@@ -1,0 +1,29 @@
+Akasya Apartmanı, 430000 TL, 2+1, Kombi, Gençler, Orta düzey, Düşük, Apartman, 3, Şehir, Orta düzey, 0.8, 1.5, 0.6, 0.2
+Mor Villa, 2250000 TL, 4+1, Şömine, Aileler, Yüksek, Düşük, Villa, 1, Deniz, Yüksek, 3.2, 4.6, 2.5, 0.8
+Ege Plaza, 7500000 TL, 5+2, Merkezi Isıtma Sistemi, Orta ve Yaşlılar, Yüksek, Orta düzey, Plaza, 15, Şehir, Orta düzey, 1.5, 1.8, 1.1, 0.3
+Pınar Yalı, 4750000 TL, 4+1, Jeotermal Isıtma, Gençler, Yüksek, Orta düzey, Yalı, 2, Deniz, Yüksek, 2.5, 3.8, 1.5, 0.5
+Beyaz Dubleks, 1250000 TL, 3+1, Klima, Aileler, Orta düzey, Düşük, Dubleks, 5, Orman, Orta düzey, 2.1, 2.7, 0.8, 0.5
+Mavi Apartmanı, 550000 TL, 3+1, Kat Kaloriferi, Gençler, Düşük, Orta düzey, Apartman, 4, Şehir, Düşük, 1.2, 2.5, 0.9, 0.4
+Yeşil Gökdelen, 9750000 TL, 6+1, Isı Pompası, Orta ve Yaşlılar, Yüksek, Yüksek, Gökdelen, 43, Şehir, Yüksek, 1.9, 3.1, 1.3, 0.2
+Gümüş Müstakil, 3750000 TL, 5+1, Merkezi Isıtma Sistemi, Aileler, Orta düzey, Orta düzey, Müstakil, 3, Dağ, Orta düzey, 3.8, 5.2, 1.9, 0.7
+Sarı Villa, 3150000 TL, 4+1, Klima, Aileler, Yüksek, Düşük, Villa, 1, Göl, Yüksek, 2.2, 4.5, 2.3, 0.9
+Kırmızı Konak, 1250000 TL, 3+1, Kombi, Gençler, Orta düzey, Düşük, Müstakil, 2, Şehir, Yüksek, 1.2, 4.6, 0.8, 0.4
+Yeşil Ev, 850000 TL, 2+1, Merkezi Isıtma Sistemi, Aileler, Orta düzey, Orta düzey, Apartman, 5, Park, Orta düzey, 0.8, 3.2, 1.7, 1.1
+Beyaz Villa, 3200000 TL, 4+1, Doğalgaz Sobası, Orta ve Yaşlılar, Düşük, Orta düzey, Villa, 1, Göl, Yüksek, 3.5, 6.8, 2.5, 0.7
+Sarı Apartman, 600000 TL, 1+1, Kombi, Gençler, Yüksek, Düşük, Apartman, 3, Şehir, Orta düzey, 0.5, 2.1, 1.5, 0.2
+Mavi Dubleks, 1450000 TL, 4+1, Kat Kaloriferi, Aileler, Orta düzey, Orta düzey, Dubleks, 6, Orman, Yüksek, 2.6, 8.4, 2.9, 1.3
+Turuncu Yalı, 8500000 TL, 6+1, Şömine, Orta ve Yaşlılar, Yüksek, Düşük, Yalı, 3, Deniz, Yüksek, 1.1, 5.7, 2.2, 0.9
+Gri Gökdelen, 4800000 TL, 5+2, Klima, Gençler, Yüksek, Orta düzey, Gökdelen, 32, Şehir, Yüksek, 0.3, 3.1, 1.9, 0.1
+Mor Plaza, 7200000 TL, 10+1, Merkezi Isıtma Sistemi, Gençler, Yüksek, Düşük, Plaza, 42, Şehir, Yüksek, 0.5, 4.2, 2.5, 0.3
+Pembeli Apartman, 270000 TL, 1+1, Elektrikli Isıtıcılar, Gençler, Düşük, Orta düzey, Apartman, 2, Şehir, Orta düzey, 0.6, 2.5, 1.2, 0.3
+Lacivert Villa, 4200000 TL, 5+2, Isı Pompası, Aileler, Yüksek, Düşük, Villa, 2, Dağ, Yüksek, 3.2, 7.8, 3.5, 1.6
+Beyaz Loft, 850000 TL, 3+1, Merkezi Isıtma Sistemi, Gençler, Orta düzey, Düşük, Plaza, 10, Şehir, Yüksek, 0.8, 1.2, 0.5, 0.3
+Yeşil Konak, 4500000 TL, 6+1, Şömine, Orta ve Yaşlılar, Yüksek, Orta düzey, Villa, 2, Orman, Yüksek, 3.5, 4.8, 2.3, 1.9
+Mavi Rezidans, 1250000 TL, 2+1, Klima, Gençler, Orta düzey, Orta düzey, Apartman, 5, Göl, Orta düzey, 1.1, 1.5, 0.9, 0.5
+Pembe Apartman, 650000 TL, 3+1, Merkezi Isıtma Sistemi, Her yaş, Orta düzey, Yüksek, Apartman, 7, Şehir, Orta düzey, 0.5, 1.3, 0.7, 0.4
+Sarı Yalı, 7500000 TL, 5+2, Jeotermal Isıtma, Orta ve Yaşlılar, Yüksek, Orta düzey, Yalı, 3, Deniz, Yüksek, 1.8, 5.2, 1.9, 0.8
+Turuncu Loft, 1500000 TL, 3+1, Kombi, Gençler, Yüksek, Orta düzey, Plaza, 20, Şehir, Orta düzey, 1.3, 3.1, 2.2, 1.6
+Gri Villa, 5800000 TL, 5+1, Isı Pompası, Orta ve Yaşlılar, Orta düzey, Yüksek, Villa, 2, Dağ, Yüksek, 2.5, 6.4, 3.1, 1.8
+Kahverengi Konut, 950000 TL, 4+1, Kat Kaloriferi, Her yaş, Düşük, Orta düzey, Apartman, 3, Şehir, Düşük, 0.6, 1.8, 0.9, 0.4
+Lacivert Residans, 2800000 TL, 4+1, Merkezi Isıtma Sistemi, Orta ve Yaşlılar, Yüksek, Yüksek, Plaza, 8, Şehir, Yüksek, 1.2, 2.5, 1.3, 0.7
+Mor Apartman, 420000 TL, 2+1, Elektrikli Isıtıcılar, Gençler, Düşük, Düşük, Apartman, 1, Şehir, Orta düzey, 0.3, 1.1, 0.5, 0.2
